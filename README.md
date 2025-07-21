@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/uR1G5aP.png" alt="BSR Logo" width="300">
-</p>
-
 <h1 align="center">BSR-Stock - Sistem Manajemen Stok & Permintaan</h1>
 
 <p align="center">
